@@ -10,4 +10,4 @@ Turbo uses complementary techniques to dramatically reduce the amount of custom 
 
 - Turbo Native lets your [majestic monolith](https://m.signalvnoise.com/the-majestic-monolith/) form the center of your native iOS and Android apps, with seamless transitions between web and native sections.
 
-It's all done by sending HTML over the wire. And for those instances when that's not enough, you can reach for the other side of [Hotwire](https://hotwired.dev/), and finish the job with [Stimulus](https://stimulus.hotwired.dev/)
+It's all done by sending HTML over the wire. And for those instances when that's not enough, you can reach for the other side of [Hotwire](https://hotwired.dev/), and finish the job with [Stimulus](https://stimulus.hotwired.dev/).
